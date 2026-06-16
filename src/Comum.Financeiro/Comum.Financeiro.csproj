@@ -4,6 +4,15 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>Comum.Financeiro</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>Jefferosn Nogueira de Oliveira</Authors>
+    <Company>IFPR - Uniao da Vitoria</Company>
+    <Product>Comum.Financeiro</Product>
+    <Title>Comum.Financeiro</Title>
+    <Description>Biblioca reutilizavel para representacao de dinheiro, moeda, percentuais e operacoes financeiras basicas em sistemas .NEt</Description>
+    <PakageTags>financeiro;dinheiro;moeada;dotnet;csharp;value-object</PakageTags>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
